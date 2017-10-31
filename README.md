@@ -21,7 +21,7 @@ git clone https://github.com/xiankaylle/ng4-AdminLTE.git
 
 - Install the packages
 ```bash
-cd Angular2-AdminLTE
+cd ng4-AdminLTE
 npm install
 ```
 
