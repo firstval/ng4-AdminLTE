@@ -29,6 +29,7 @@ Running the application
 ------------
 - On the folder project
 ```
+ng serve -o to open automatically in your browser or
 ng serve
 ```
 - For starter page Navigate to [http://localhost:4200/](http://localhost:4200/)
